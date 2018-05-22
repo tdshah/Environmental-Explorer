@@ -6,4 +6,4 @@ All C# source code and Unity assets & environments for the final project are ava
 
 We plan to make this project open source & "Github ready" soon!
 
-https://drive.google.com/drive/u/1/folders/10kEUE5yBI8CkNzHKddjkS0lxefmH-0Do
+https://drive.google.com/file/d/1EUauQoBaOSaEeu70-7G5hsfXtJgTyhaX/view
